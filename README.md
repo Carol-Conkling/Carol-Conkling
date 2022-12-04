@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**Carol-Conkling/Carol-Conkling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📱I can be reached at Carol.Conkling@drexel.edu
+- ⛵️ I grew up in Port Washington, New York.
+- 🧑‍🎓I am in the process of getting my Master of Library and Information Sciences.
+- 📰 My goal is to be an archivist at a university.
+- 🔔 I live in Philadelphia.
+- 📚I am currently learning about data and digital stewardship. 
+- 🥊I plan to get back into kickboxing.
+- 🎹 I would like to learn how to play the piano.
+-
+- 
+- 
+- 
 -->
